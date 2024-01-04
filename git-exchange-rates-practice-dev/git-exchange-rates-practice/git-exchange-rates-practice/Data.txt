@@ -1,0 +1,5 @@
+Belarusbank 33.2 35.6 str. Kalinina
+Belarusbank 2.3 2.2 str. Mira
+Belarusbank 1.4 3.1 str. Shagala
+Belagroprombank 4.5 1.3 str. Mosskovskaya
+Belagroprombank 44.6 10.2 str. Pushkin
