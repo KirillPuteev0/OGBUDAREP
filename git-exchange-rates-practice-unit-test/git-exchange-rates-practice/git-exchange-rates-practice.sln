@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "git-exchange-rates-practice", "git-exchange-rates-practice\git-exchange-rates-practice.vcxproj", "{3051EC40-FA19-4FBF-A51C-75B31A5F7D08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest1", "UnitTest1\UnitTest1.vcxproj", "{796D4068-F1E7-4CF3-B22B-09DB055DD121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3051EC40-FA19-4FBF-A51C-75B31A5F7D08}.Release|x64.Build.0 = Release|x64
 		{3051EC40-FA19-4FBF-A51C-75B31A5F7D08}.Release|x86.ActiveCfg = Release|Win32
 		{3051EC40-FA19-4FBF-A51C-75B31A5F7D08}.Release|x86.Build.0 = Release|Win32
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Debug|x64.ActiveCfg = Debug|x64
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Debug|x64.Build.0 = Debug|x64
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Debug|x86.ActiveCfg = Debug|Win32
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Debug|x86.Build.0 = Debug|Win32
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Release|x64.ActiveCfg = Release|x64
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Release|x64.Build.0 = Release|x64
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Release|x86.ActiveCfg = Release|Win32
+		{796D4068-F1E7-4CF3-B22B-09DB055DD121}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
